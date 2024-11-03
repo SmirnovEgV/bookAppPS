@@ -5,7 +5,7 @@ As it turned out, Android development requires far more skills and the use of va
 
 Nonetheless, I now know much more than I did before. It's also worth noting that I had no prior experience with either Android Studio or Kotlin before starting this project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=y2Onr8-l2yg)
 
 # Development Environment
 
